@@ -1,1 +1,1 @@
-# blog_examples
+# blog examples
